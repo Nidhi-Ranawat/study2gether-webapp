@@ -56,7 +56,7 @@ MIDDLEWARE = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://study2gether'
+    'https://web-production-f4f8.up.railway.app/'
 ]
 
 ROOT_URLCONF = 'study2gether.urls'
