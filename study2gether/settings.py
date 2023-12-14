@@ -55,6 +55,10 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://study2gether'
+]
+
 ROOT_URLCONF = 'study2gether.urls'
 
 TEMPLATES = [
