@@ -65,7 +65,7 @@ CSRF_COOKIE_SECURE = True
 SECURE_SSL_REDIRECT = False
 
 CORS_ALLOW_ALL_ORIGINS = True
-CSRF_TRUSTED_ORIGINS = ['https://railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://study2gether-webapp-production.up.railway.app/']
 
 # ---------------------------------------------------
 
